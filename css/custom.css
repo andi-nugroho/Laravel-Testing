@@ -1,0 +1,74 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color:white;
+}
+
+.banner img {
+    width: 100%;
+    border-radius: 15px;
+    box-shadow: rgb(38, 57, 77) 0px 10px 30px -10px;
+}
+
+.pilih-liga img {
+    max-height: 100px;
+}
+
+.pilih-liga .card {
+    border-radius: 15px;
+}
+
+.products .card {
+    border-radius: 15px;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    padding: 0;
+}
+
+.breadcrumb .active {
+    font-weight: bold;
+    color: black;
+}
+
+.btn-dark {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.btn-success {
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+.hantu {
+    width: 11%;
+    border-radius: 10px;
+    float: right;
+    border-color: white;
+}
+
+.kiri {
+    width: 11%;
+    border-radius: 10px;
+    float: left;
+    border-color: white;
+}
+
+.gambar-product {
+    background-color: #f1efef;
+    border-width: 0;
+    border-radius: 12px;
+}
+
+.pukai {
+    background-color: rgb(155, 155, 155);
+    border: none;
+}
+
+.pukai:hover {
+    background-color: rgb(107, 107, 107);
+    transform: scale(1.07);
+    transition: .8s;
+}
